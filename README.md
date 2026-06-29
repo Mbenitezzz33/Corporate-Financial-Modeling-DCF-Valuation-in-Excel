@@ -193,9 +193,8 @@ This project demonstrates the ability to:
 ## Author
 
 **Matthias Benitez**
-B.S. Finance, Cum Laude
+B.B.A. Finance, Cum Laude
 West Texas A&M University
 
-GitHub: https://github.com/Mbenitezzz33
-LinkedIn: https://www.linkedin.com/in/matthias-benitez/
+[LinkedIn - Matthias Benitez](https://linkedin.com/in/matthias-benitez-81a8a7197)
 
